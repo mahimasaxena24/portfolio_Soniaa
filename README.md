@@ -1,4 +1,4 @@
-# The Clarity Signal
+# The Idea To Execution
 
 A small PHP foundation for Soniaa's interactive i-SmokeStack founder story. The visual direction uses a continuous signal motif that can evolve from scattered paths into a clear route as the experience is built.
 
